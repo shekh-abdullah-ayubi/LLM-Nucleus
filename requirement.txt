@@ -1,0 +1,10 @@
+numpy
+pandas
+jupyter
+scikit-learn
+beautifulsoup4
+keras
+nltk
+certifi
+textblob
+vaderSentiment
