@@ -8,3 +8,5 @@ nltk
 certifi
 textblob
 vaderSentiment
+gensim
+POT
