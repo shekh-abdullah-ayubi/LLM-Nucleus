@@ -10,3 +10,4 @@ textblob
 vaderSentiment
 gensim
 POT
+tensorflow
